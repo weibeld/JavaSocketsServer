@@ -8,6 +8,8 @@ Simple server application:
 
 This server can connect only to a single client, and the server terminates when the client closes the connection.
 
+The corresponding client application is [here](https://github.com/weibeld/JavaSocketsClient).
+
 Source: [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html)
 
 ## Compile
